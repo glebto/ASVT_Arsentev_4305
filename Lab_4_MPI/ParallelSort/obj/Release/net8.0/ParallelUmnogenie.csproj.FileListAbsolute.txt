@@ -1,0 +1,17 @@
+C:\Users\d_abu\Desktop\ASVT\MPI-mult-matrix-master\ParallelSort\bin\Release\net8.0\ParallelUmnogenie.exe
+C:\Users\d_abu\Desktop\ASVT\MPI-mult-matrix-master\ParallelSort\bin\Release\net8.0\ParallelUmnogenie.deps.json
+C:\Users\d_abu\Desktop\ASVT\MPI-mult-matrix-master\ParallelSort\bin\Release\net8.0\ParallelUmnogenie.runtimeconfig.json
+C:\Users\d_abu\Desktop\ASVT\MPI-mult-matrix-master\ParallelSort\bin\Release\net8.0\ParallelUmnogenie.dll
+C:\Users\d_abu\Desktop\ASVT\MPI-mult-matrix-master\ParallelSort\bin\Release\net8.0\ParallelUmnogenie.pdb
+C:\Users\d_abu\Desktop\ASVT\MPI-mult-matrix-master\ParallelSort\bin\Release\net8.0\MPI.dll
+C:\Users\d_abu\Desktop\ASVT\MPI-mult-matrix-master\ParallelSort\obj\Release\net8.0\ParallelUmnogenie.csproj.AssemblyReference.cache
+C:\Users\d_abu\Desktop\ASVT\MPI-mult-matrix-master\ParallelSort\obj\Release\net8.0\ParallelUmnogenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d_abu\Desktop\ASVT\MPI-mult-matrix-master\ParallelSort\obj\Release\net8.0\ParallelUmnogenie.AssemblyInfoInputs.cache
+C:\Users\d_abu\Desktop\ASVT\MPI-mult-matrix-master\ParallelSort\obj\Release\net8.0\ParallelUmnogenie.AssemblyInfo.cs
+C:\Users\d_abu\Desktop\ASVT\MPI-mult-matrix-master\ParallelSort\obj\Release\net8.0\ParallelUmnogenie.csproj.CoreCompileInputs.cache
+C:\Users\d_abu\Desktop\ASVT\MPI-mult-matrix-master\ParallelSort\obj\Release\net8.0\Parallel.0752E104.Up2Date
+C:\Users\d_abu\Desktop\ASVT\MPI-mult-matrix-master\ParallelSort\obj\Release\net8.0\ParallelUmnogenie.dll
+C:\Users\d_abu\Desktop\ASVT\MPI-mult-matrix-master\ParallelSort\obj\Release\net8.0\refint\ParallelUmnogenie.dll
+C:\Users\d_abu\Desktop\ASVT\MPI-mult-matrix-master\ParallelSort\obj\Release\net8.0\ParallelUmnogenie.pdb
+C:\Users\d_abu\Desktop\ASVT\MPI-mult-matrix-master\ParallelSort\obj\Release\net8.0\ParallelUmnogenie.genruntimeconfig.cache
+C:\Users\d_abu\Desktop\ASVT\MPI-mult-matrix-master\ParallelSort\obj\Release\net8.0\ref\ParallelUmnogenie.dll
